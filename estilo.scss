@@ -1,0 +1,56 @@
+body {
+
+    padding: 0px;
+    margin: 0px;
+
+
+
+    header {
+        font-family: 'Bebas Neue';
+        text-transform: uppercase;
+        font-size: 30px;
+        background-image: linear-gradient(to left, red, black, blue);
+
+
+        h1 {
+            text-align: center;
+            font-size: 50px;
+            color: white;
+            background: black;
+
+        }
+
+    }
+
+
+
+    article {
+        h3 {
+            text-align: center;
+        }
+
+        p {
+            background-color: black;
+            border: solid 3px blue;
+            color: white;
+            font-size: 30px;
+            font-family: 'Bebas Neue';
+            padding: 10px;
+            margin: 10px;
+        }
+    }
+
+    .container {
+        margin-top: 100px
+    }
+
+}
+
+footer {
+    height: 20vh;
+    background-image: linear-gradient(to left, red, black, blue);
+}
+
+
+
+
